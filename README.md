@@ -1,6 +1,6 @@
 # RAG Time: AI Learning Series to Master RAG
 
-![RAG Time Banner](./images/repo-banner.png)
+![RAG Time Banner](./images/agenda-content.png)
 
 [![GitHub watchers](https://img.shields.io/github/watchers/microsoft/rag-time.svg?style=social&label=Watch)](https://GitHub.com/microsoft/rag-time/watchers)
 [![GitHub forks](https://img.shields.io/github/forks/microsoft/rag-time.svg?style=social&label=Fork)](https://github.com/microsoft/rag-time/fork)
