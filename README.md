@@ -1,4 +1,4 @@
-# RAG Time: AI Learning Series to RAG Mastery 
+# RAG Time: AI Learning Series to Master RAG
 
 ![RAG Time Banner](./images/repo-banner.png)
 
