@@ -1,8 +1,11 @@
 ## LlamaIndex RAG chat app with Azure OpenAI and Azure AI Search (JavaScript)
 
-This solution creates a ChatGPT-like, Retrieval Augmented Generation (RAG) agentic application, over your own documents, powered by Llamaindex (TypeScript). It uses Azure OpenAI Service to access GPT models and embedding, and Azure AI Search for data indexing and retrieval.
+It creates a ChatGPT-like, Retrieval Augmented Generation (RAG) agentic application, over your own documents, powered by Llamaindex (TypeScript). It uses Azure OpenAI Service to access GPT models and embedding, and Azure AI Search for data indexing and retrieval.
 
 Learn more about developing AI apps using [Azure AI Services](https://aka.ms/azai).
+
+> [!IMPORTANT]
+> This sample application is based on [llama-index-vector-search-javascript](https://github.com/Azure-Samples/llama-index-vector-search-javascript). If you encounter issues or have feedback, please open an issue [on the original repository](https://github.com/Azure-Samples/llama-index-vector-search-javascript).
 
 [![Open in GitHub Codespaces](https://img.shields.io/static/v1?style=for-the-badge&label=GitHub+Codespaces&message=Open&color=brightgreen&logo=github)](https://github.com/codespaces/new?hide_repo_select=true&ref=main&repo=890591076&machine=standardLinux32gb&devcontainer_path=.devcontainer%2Fdevcontainer.json&location=WestUs2)
 [![Open in Dev Containers](https://img.shields.io/static/v1?style=for-the-badge&label=Dev%20Containers&message=Open&color=blue&logo=visualstudiocode)](https://vscode.dev/redirect?url=vscode://ms-vscode-remote.remote-containers/cloneInVolume?url=https://github.com/azure-samples/llama-index-vector-search-javascript)
@@ -13,7 +16,6 @@ This template, the application code and configuration it contains, has been buil
 
 ## Table of Contents
 
-- [LlamaIndex RAG chat app with Azure OpenAI and Azure AI Search (JavaScript)](#llamaindex-rag-chat-app-with-azure-openai-and-azure-ai-search-javascript)
 - [Important Security Notice](#important-security-notice)
 - [Table of Contents](#table-of-contents)
   - [Architecture Diagram](#architecture-diagram)
