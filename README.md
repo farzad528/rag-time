@@ -53,7 +53,7 @@ RAG Time runs every **Wednesday at 9AM PT** from **March 5th to April 2nd**. Eac
 
 🚀 Let’s build the future of AI together!
 
-- 💬 **Join the Community:** Discuss, ask questions, and share insights via GitHub Discussions.
+- 💬 **Join the Community:** Discuss, ask questions, and share insights via [GitHub Discussions](https://github.com/microsoft/rag-time/discussions/12).
 - ⭐ **Star this repository** to stay updated.
 - 📢 **Spread the word:** Share RAG Time with your network!
 
