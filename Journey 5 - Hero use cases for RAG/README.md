@@ -38,4 +38,6 @@ To get hands-on experience, explore the sample implementation in the 📂 [Journ
 
 📚 Azure AI Search Documentation: [Learn more](https://learn.microsoft.com/en-us/azure/search/)
 
-💬 Join the Discussion: What’s your hero use case for RAG? Have you explored real-time AI-powered retrieval in your projects? Share your thoughts in GitHub Discussions, or open an issue in this repository. Let’s exchange ideas and push the boundaries of AI-powered search together! 🚀
+💬 Join the Discussion: What’s your hero use case for RAG? Have you explored real-time AI-powered retrieval in your projects? Share your thoughts in GitHub Discussions, or open an issue in this repository. Let’s exchange ideas and push the boundaries of AI-powered search together!
+
+Your RAG journey doesn't end here! Continue learning about RAG Solutions in [RAGChat series](https://techcommunity.microsoft.com/blog/azuredevcommunityblog/rag-deep-dive-watch-all-the-recordings/4383171) 🚀
