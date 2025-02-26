@@ -1,4 +1,4 @@
-# RAG Time: AI Learning Series to Master RAG
+# RAG Time: Ultimate Guide to Mastering RAG
 
 ![RAG Time Banner](./images/agenda-content.png)
 
