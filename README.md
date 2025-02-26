@@ -2,6 +2,10 @@
 
 ![RAG Time Banner](./images/agenda-content.png)
 
+
+[![Calendar blockers](https://img.shields.io/badge/%F0%9F%93%86-add%20to%20calendar-blue?style=for-the-badge)](https://aka.ms/rag-time/calendar)
+
+
 [![GitHub watchers](https://img.shields.io/github/watchers/microsoft/rag-time.svg?style=social&label=Watch)](https://GitHub.com/microsoft/rag-time/watchers)
 [![GitHub forks](https://img.shields.io/github/forks/microsoft/rag-time.svg?style=social&label=Fork)](https://github.com/microsoft/rag-time/fork)
 [![GitHub stars](https://img.shields.io/github/stars/microsoft/rag-time?style=social&label=Star)](https://GitHub.com/microsoft/rag-time/stargazers)
