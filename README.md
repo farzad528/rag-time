@@ -53,13 +53,11 @@ RAG Time runs every **Wednesday at 9AM PT** from **March 5th to April 2nd**. Eac
 
 
 
-## Get Involved!
+## 🙏 Get Involved
 
-🚀 Let’s build the future of AI together!
-
-- 💬 **Join the Community:** Discuss, ask questions, and share insights via [GitHub Discussions](https://github.com/microsoft/rag-time/discussions/12).
-- ⭐ **Star this repository** to stay updated.
-- 📢 **Spread the word:** Share RAG Time with your network!
+We'd love to see you contributing to our repo and engaging with the experts with your questions!
+- 🤔 Do you have suggestions or found spelling or code errors? [Raise an issue](https://github.com/microsoft/rag-time/issues) or [Create a pull request](https://github.com/microsoft/rag-time/pulls).
+- 🚀 If you get stuck or have any questions about RAG, join our [Azure AI Community Discord](https://discord.com/channels/1113626258182504448/1343540943533637663).
 
 ## Meet the RAG Time Speakers
 
