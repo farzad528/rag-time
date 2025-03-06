@@ -33,7 +33,7 @@ git clone https://github.com/your-org/rag-time.git
 cd rag-time
 ```
 
-3. Navigate to the Journey of your choice and follow the README Instructions. 
+3. Navigate to the Journey of your choice and follow the README Instructions.
 
 ## Learning Journeys
 
@@ -56,7 +56,7 @@ RAG Time runs every **Wednesday at 9AM PT** from **March 5th to April 2nd**. Eac
 ## 🙏 Get Involved
 
 We'd love to see you contributing to our repo and engaging with the experts with your questions!
-- 🤔 Do you have suggestions or found spelling or code errors? [Raise an issue](https://github.com/microsoft/rag-time/issues) or [Create a pull request](https://github.com/microsoft/rag-time/pulls).
+- 🤔 Do you have suggestions or have you found spelling or code errors? [Raise an issue](https://github.com/microsoft/rag-time/issues) or [Create a pull request](https://github.com/microsoft/rag-time/pulls).
 - 🚀 If you get stuck or have any questions about RAG, join our [Azure AI Community Discord](https://discord.com/channels/1113626258182504448/1343540943533637663).
 
 ## Meet the RAG Time Speakers
@@ -65,7 +65,7 @@ We'd love to see you contributing to our repo and engaging with the experts with
 
 ## Contributing
 
-This project welcomes contributions and suggestions.  Most contributions require you to agree to a
+This project welcomes contributions and suggestions. Most contributions require you to agree to a
 Contributor License Agreement (CLA) declaring that you have the right to, and actually do, grant us
 the rights to use your contribution. For details, visit https://cla.opensource.microsoft.com.
 
@@ -74,7 +74,7 @@ a CLA and decorate the PR appropriately (e.g., status check, comment). Simply fo
 provided by the bot. You will only need to do this once across all repos using our CLA.
 
 This project has adopted the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/).
-For more information see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or
+For more information, see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or
 contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additional questions or comments.
 
 ## Trademarks
@@ -83,4 +83,4 @@ This project may contain trademarks or logos for projects, products, or services
 trademarks or logos is subject to and must follow 
 [Microsoft's Trademark & Brand Guidelines](https://www.microsoft.com/en-us/legal/intellectualproperty/trademarks/usage/general).
 Use of Microsoft trademarks or logos in modified versions of this project must not cause confusion or imply Microsoft sponsorship.
-Any use of third-party trademarks or logos are subject to those third-party's policies.
+Any use of third-party trademarks or logos is subject to those third parties' policies.
