@@ -153,7 +153,7 @@ azd deploy
 > [!NOTE]
 > This will provision Azure resources and deploy this sample to those resources, including building the search index based on the files found in the ./data folder.
 
-After the application has been successfully deployed you will see a URL printed to the console.  Click that URL to interact with the application in your browser.
+After the application has been successfully deployed you will see a URL printed to the console. Click that URL to interact with the application in your browser.
 
 It will look like the following:
 
