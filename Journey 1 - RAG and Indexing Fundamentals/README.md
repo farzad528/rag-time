@@ -1,10 +1,10 @@
-# Journey 1: RAG and Indexing Fundamentals
+# Journey 1: RAG and knowledge retrieval fundamentals
 
 ![Journey 1 Context](./../images/j1.png)
 
 ## Overview
 
-Welcome to **Journey 1: RAG & Indexing Fundamentals**. This space is designed to help you understand how retrieval and indexing work together to enhance AI-generated responses.
+Welcome to **Journey 1: RAG and knowledge retrieval fundamentals**. This space is designed to help you understand how retrieval and indexing work together to enhance AI-generated responses.
 
 In this journey, we explore how indexing makes retrieval possible, why it’s essential for scalable, real-time AI interactions, and how Azure AI Search enables intelligent data access. You'll learn how search indexing, vector embeddings help AI retrieve information before generating responses.
 
