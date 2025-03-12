@@ -1,6 +1,6 @@
 # Journey 1: RAG and knowledge retrieval fundamentals
 
-![Journey 1 Context](./../images/j1.png)
+[![Journey 1 video](https://github.com/user-attachments/assets/90942e69-78b5-4e47-a6b9-adc1c52b5a8d)](https://aka.ms/rag-time/journey1)
 
 ## Overview
 
@@ -8,7 +8,9 @@ Welcome to **Journey 1: RAG and knowledge retrieval fundamentals**. This space i
 
 In this journey, we explore how indexing makes retrieval possible, why it’s essential for scalable, real-time AI interactions, and how Azure AI Search enables intelligent data access. You'll learn how search indexing, vector embeddings help AI retrieve information before generating responses.
 
-**📅 March 5th, 9AM PT | 📺 [Watch the session](https://aka.ms/rag-time/journey1)**
+* **📺 [Watch the session](https://aka.ms/rag-time/journey1)**
+* **📝 [Read the blog post](https://aka.ms/rag-time/journey1-blog)**
+* **🚀 [Test the sample](./sample/)**
 
 ## 🎥 Session Summary
 
@@ -33,5 +35,5 @@ To get hands-on experience, explore the sample implementation in the 📂 [Journ
 ## 🔗 Additional Learning Resources
 - 📚 Azure AI Search Documentation: [Learn more](https://learn.microsoft.com/en-us/azure/search/)
 - 📝 Read the Blog for Journey 1: [RAG and knowledge retrieval fundamentals](https://aka.ms/rag-time/journey1-blog)
-- 💬 Join the Discussion: Connect with the community in GitHub Discussions or open an issue in this repository.
+- 💬 Join the Discussion: Ask your questions on our [Discord channel](https://aka.ms/rag-time/discord).
 - 🚀 Next Up: Continue to [Journey 2](./../Journey%202%20-%20Build%20the%20Ultimate%20Retrieval%20System%20for%20RAG/) for the next step—Building the Ultimate Retrieval System!
