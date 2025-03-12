@@ -36,4 +36,5 @@ To get hands-on experience, explore the sample implementation in the 📂 [Journ
 - 📚 Azure AI Search Documentation: [Learn more](https://learn.microsoft.com/en-us/azure/search/)
 - 📝 Read the Blog for Journey 1: [RAG and knowledge retrieval fundamentals](https://aka.ms/rag-time/journey1-blog)
 - 💬 Join the Discussion: Ask your questions on our [Discord channel](https://aka.ms/rag-time/discord).
-- 🚀 Next Up: Continue to [Journey 2](./../Journey%202%20-%20Build%20the%20Ultimate%20Retrieval%20System%20for%20RAG/) for the next step—Building the Ultimate Retrieval System!
+
+### Next Up: Continue to [Journey 2](./../Journey%202%20-%20Build%20the%20Ultimate%20Retrieval%20System%20for%20RAG/) for the next step—Building the Ultimate Retrieval System!
