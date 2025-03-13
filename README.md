@@ -12,27 +12,23 @@
 
 [![Azure AI Community Discord](https://dcbadge.vercel.app/api/server/ByRwuEEgH4)](https://discord.gg/REmjGvvFpW)
 
-🎉 Welcome to **RAG Time**, a 5-week AI learning series where **Retrieval-Augmented Generation (RAG)** meets innovation! This repository is your companion to the **video series, containing code samples, step-by-step guides,** and **resources** to help you master RAG concepts.
+**🚀 Master RAG with RAG Time!** Learn how to build smarter AI applications with Retrieval-Augmented Generation. This repo includes **step-by-step guides, live coding samples, and expert insights**—everything you need to go from beginner to RAG pro!
 
-The RAG Time series aims to:
-
-- Teach foundational and advanced RAG concepts.
-- Demonstrate how RAG can be applied to real-world scenarios.
-- Provide hands-on samples for practical implementation.
-
-
-## Getting Started
-
-To run the code samples included in this repository:
+## 🤔 Why Learn RAG with RAG Time?
+- 🏆 **Expert-Led** – Learn directly from AI & Microsoft experts.
+- 🔥 **Future-Proof Your AI Skills** – Stay ahead with **cutting-edge retrieval techniques.**
+- 🎥 **Exclusive Video Content** – Interviews with AI leaders, in-depth tech talks, and practical demonstrations.
+- 💻 **Sample Code** – Follow along with ready-to-use implementations and best practices.
+- 🎨 **Doodles & Visual Explanations** – Complex concepts made simple with engaging visuals.
+  
+## 🚀 Get Started in 3 Easy Steps  
 
 1. [Fork](https://github.com/microsoft/rag-time/fork) the repository.
 2. Clone the repository to your local machine:
-
-```bash
-git clone https://github.com/your-org/rag-time.git
-cd rag-time
-```
-
+  ```bash
+  git clone https://github.com/your-org/rag-time.git
+  cd rag-time
+  ```
 3. Navigate to the Journey of your choice and follow the README Instructions.
 
 ## Learning Journeys
