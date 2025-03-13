@@ -15,11 +15,11 @@
 **🚀 Master RAG with RAG Time!** Learn how to build smarter AI applications with Retrieval-Augmented Generation. This repo includes **step-by-step guides, live coding samples, and expert insights**—everything you need to go from beginner to RAG pro!
 
 ## 🤔 Why Learn RAG with RAG Time?
-- 🏆 **Expert-Led** – Learn directly from AI & Microsoft experts.
-- 🔥 **Future-Proof Your AI Skills** – Stay ahead with **cutting-edge retrieval techniques.**
-- 🎥 **Exclusive Video Content** – Interviews with AI leaders, in-depth tech talks, and practical demonstrations.
-- 💻 **Sample Code** – Follow along with ready-to-use implementations and best practices.
-- 🎨 **Doodles & Visual Explanations** – Complex concepts made simple with engaging visuals.
+- **Expert-Led** – Learn directly from AI & Microsoft experts.
+- **Future-Proof Your AI Skills** – Stay ahead with cutting-edge retrieval techniques.
+- **Exclusive Video Content** – Interviews with AI leaders, in-depth tech talks, and practical demonstrations.
+- **Sample Code** – Follow along with ready-to-use implementations and best practices.
+- **Doodles & Visual Explanations** – Complex concepts made simple with engaging visuals.
   
 ## 🚀 Get Started in 3 Easy Steps  
 
